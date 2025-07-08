@@ -28,8 +28,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "app/lib/placeholder-data.ts",
+    "app/lib/placeholder.ts",
     "scripts/seed.js"
-  ],
+, "../auth.ts", "../auth.ts"  ],
   "exclude": ["node_modules"]
 }
